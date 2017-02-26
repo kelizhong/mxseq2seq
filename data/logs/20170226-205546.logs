@@ -1,0 +1,37 @@
+2017-02-26 20:55:46,085 [INFO :root] train_max_samples: 20000
+2017-02-26 20:55:46,085 [INFO :root] train_source_path: ./data/train_corpus/train.enc
+2017-02-26 20:55:46,086 [INFO :root] log_path: /Users/keliz/PycharmProjects/seq2seq/data/logs
+2017-02-26 20:55:46,086 [INFO :root] s_layer_num: 3
+2017-02-26 20:55:46,086 [INFO :root] t_layer_num: 3
+2017-02-26 20:55:46,086 [INFO :root] vocabulary_path: ./data/vocabulary/vocab.pkl
+2017-02-26 20:55:46,086 [INFO :root] monitor_interval: 0
+2017-02-26 20:55:46,086 [INFO :root] log_level: 20
+2017-02-26 20:55:46,086 [INFO :root] lr: 0.01
+2017-02-26 20:55:46,086 [INFO :root] num_examples: 65535
+2017-02-26 20:55:46,086 [INFO :root] momentum: 0.9
+2017-02-26 20:55:46,086 [INFO :root] kv: <mxnet.kvstore.KVStore object at 0x109da7990>
+2017-02-26 20:55:46,086 [INFO :root] wd: 0.0005
+2017-02-26 20:55:46,087 [INFO :root] optimizer: sgd
+2017-02-26 20:55:46,087 [INFO :root] buckets: [(3, 10), (3, 20), (5, 20), (7, 30)]
+2017-02-26 20:55:46,087 [INFO :root] show_every_x_batch: 1
+2017-02-26 20:55:46,087 [INFO :root] batch_size: 128
+2017-02-26 20:55:46,087 [INFO :root] kv_store: device
+2017-02-26 20:55:46,087 [INFO :root] lr_factor: 1
+2017-02-26 20:55:46,087 [INFO :root] s_hidden_unit: 512
+2017-02-26 20:55:46,087 [INFO :root] device_mode: cpu
+2017-02-26 20:55:46,087 [INFO :root] s_dropout: 0.0
+2017-02-26 20:55:46,087 [INFO :root] load_epoch: None
+2017-02-26 20:55:46,087 [INFO :root] t_hidden_unit: 512
+2017-02-26 20:55:46,087 [INFO :root] s_embed_size: 150
+2017-02-26 20:55:46,088 [INFO :root] save_checkpoint_freq: 100
+2017-02-26 20:55:46,088 [INFO :root] devices: 0
+2017-02-26 20:55:46,088 [INFO :root] model_prefix: /Users/keliz/PycharmProjects/seq2seq/data/model/query2vec
+2017-02-26 20:55:46,088 [INFO :root] num_epoch: 100000
+2017-02-26 20:55:46,088 [INFO :root] t_dropout: 0.0
+2017-02-26 20:55:46,088 [INFO :root] enable_evaluation: False
+2017-02-26 20:55:46,088 [INFO :root] train_target_path: ./data/train_corpus/train.dec
+2017-02-26 20:55:46,088 [INFO :root] t_embed_size: 150
+2017-02-26 20:55:46,334 [INFO :root] vocab size: 40000
+2017-02-26 20:56:18,570 [INFO :root] Epoch[0] Batch [1]	Speed: 8.16 samples/sec	Train-Perplexity=39919.238112
+2017-02-26 20:56:34,066 [INFO :root] Epoch[0] Batch [2]	Speed: 8.26 samples/sec	Train-Perplexity=38941.530725
+2017-02-26 20:56:48,791 [INFO :root] Epoch[0] Batch [3]	Speed: 8.69 samples/sec	Train-Perplexity=37444.180326

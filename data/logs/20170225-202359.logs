@@ -1,0 +1,8 @@
+2017-02-25 20:23:59,504 [INFO :root] Counting words in data/train_corpus/train.dec
+2017-02-25 20:24:04,848 [INFO :root] 85021 unique words in data/train_corpus/train.dec with a total of 1081104 words.
+2017-02-25 20:24:04,892 [INFO :root] Finish counting. 85021 unique words, a total of 1081104 words in all files.
+2017-02-25 20:24:04,893 [INFO :root] Counting words in data/train_corpus/train.enc
+2017-02-25 20:24:08,543 [INFO :root] 89136 unique words in data/train_corpus/train.enc with a total of 1151381 words.
+2017-02-25 20:24:08,672 [INFO :root] Finish counting. 132835 unique words, a total of 1151381 words in all files.
+2017-02-25 20:24:09,262 [INFO :root] store vocalbulary with most_commond_words file, vocabulary size: 40000
+2017-02-25 20:24:09,262 [INFO :root] Saving to data/vocabulary/vocab.pkl.

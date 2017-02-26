@@ -1,0 +1,5 @@
+2017-02-26 12:46:56,842 [INFO :root] Counting words in ../data/ptb.train.txt
+2017-02-26 12:46:57,022 [INFO :root] 7950 unique words in ../data/ptb.train.txt with a total of 144288 words.
+2017-02-26 12:46:57,025 [INFO :root] Finish counting. 7950 unique words, a total of 144288 words in all files.
+2017-02-26 12:46:57,101 [INFO :root] store vocalbulary with most_commond_words file, vocabulary size: 7952
+2017-02-26 12:46:57,102 [INFO :root] Overwriting ../data/vocabulary/seq2seq.pkl.

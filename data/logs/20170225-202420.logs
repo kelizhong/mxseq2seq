@@ -1,0 +1,34 @@
+2017-02-25 20:24:20,141 [INFO :root] train_max_samples: 20000
+2017-02-25 20:24:20,141 [INFO :root] train_source_path: ./data/train_corpus/train.enc
+2017-02-25 20:24:20,141 [INFO :root] log_path: /Users/keliz/project/PycharmProjects/MxQuery2vec/data/logs
+2017-02-25 20:24:20,141 [INFO :root] s_layer_num: 3
+2017-02-25 20:24:20,141 [INFO :root] t_layer_num: 3
+2017-02-25 20:24:20,141 [INFO :root] vocabulary_path: ./data/vocabulary/vocab.pkl
+2017-02-25 20:24:20,141 [INFO :root] monitor_interval: 0
+2017-02-25 20:24:20,141 [INFO :root] log_level: 20
+2017-02-25 20:24:20,142 [INFO :root] lr: 0.01
+2017-02-25 20:24:20,142 [INFO :root] num_examples: 65535
+2017-02-25 20:24:20,142 [INFO :root] momentum: 0.9
+2017-02-25 20:24:20,142 [INFO :root] kv: <mxnet.kvstore.KVStore object at 0x114c156d0>
+2017-02-25 20:24:20,142 [INFO :root] wd: 0.0005
+2017-02-25 20:24:20,142 [INFO :root] optimizer: sgd
+2017-02-25 20:24:20,142 [INFO :root] buckets: [(3, 10), (3, 20), (5, 20), (7, 30)]
+2017-02-25 20:24:20,142 [INFO :root] show_every_x_batch: 1
+2017-02-25 20:24:20,142 [INFO :root] batch_size: 128
+2017-02-25 20:24:20,142 [INFO :root] kv_store: device
+2017-02-25 20:24:20,142 [INFO :root] lr_factor: 1
+2017-02-25 20:24:20,142 [INFO :root] s_hidden_unit: 512
+2017-02-25 20:24:20,142 [INFO :root] device_mode: cpu
+2017-02-25 20:24:20,142 [INFO :root] s_dropout: 0.0
+2017-02-25 20:24:20,142 [INFO :root] load_epoch: None
+2017-02-25 20:24:20,143 [INFO :root] t_hidden_unit: 512
+2017-02-25 20:24:20,143 [INFO :root] s_embed_size: 150
+2017-02-25 20:24:20,143 [INFO :root] save_checkpoint_freq: 100
+2017-02-25 20:24:20,143 [INFO :root] devices: 0
+2017-02-25 20:24:20,143 [INFO :root] model_prefix: /Users/keliz/project/PycharmProjects/MxQuery2vec/data/model/query2vec
+2017-02-25 20:24:20,143 [INFO :root] num_epoch: 100000
+2017-02-25 20:24:20,143 [INFO :root] t_dropout: 0.0
+2017-02-25 20:24:20,143 [INFO :root] enable_evaluation: False
+2017-02-25 20:24:20,143 [INFO :root] train_target_path: ./data/train_corpus/train.dec
+2017-02-25 20:24:20,143 [INFO :root] t_embed_size: 150
+2017-02-25 20:24:20,464 [INFO :root] vocab size: 40000
